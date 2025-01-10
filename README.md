@@ -10,6 +10,8 @@ The Vision-Based Attendance System is an innovative solution designed to automat
 - **Secure and Reliable**: Ensures data security and reliability with robust algorithms.
 - **User-Friendly Interface**: Easy-to-use interface for both administrators and users.
 
+https://github.com/user-attachments/assets/6f114d0d-60b9-4de6-b493-00aa5d712d56
+
 ## Installation
 To install and set up the Vision-Based Attendance System, follow these steps:
 
