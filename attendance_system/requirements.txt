@@ -1,7 +1,0 @@
-
-numpy
-flask
-opencv-python
-flask-migrate
-flask_sqlalchemy
-opencv-contrib-python
