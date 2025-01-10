@@ -15,7 +15,7 @@ To install and set up the Vision-Based Attendance System, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/attendance_system.git
+    git clone https://github.com/anschoudary/Attendance-System.git
     ```
 2. Navigate to the project directory:
     ```bash
